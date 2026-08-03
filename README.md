@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Manish Nishad 👋
 
-<!--
-**ManishxNishad/ManishxNishad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech CSE (AI & ML) Student at Parul University
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python Developer
+- 📚 Currently learning Data Structures & Algorithms
+- 🤖 Interested in AI, Machine Learning & Automation
+- 🌱 Learning every day by building projects
+- 🎯 Goal: Become an AI Engineer & Build a Tech Business
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
+Currently Learning:
+- Data Structures & Algorithms
+- SQL
+- AI & Machine Learning
+
+---
+
+## 📂 Featured Projects
+
+Coming Soon...
+
+---
+
+## 📜 Certifications
+
+- ✅ Complete 2026 Python Bootcamp: Learn Python from Scratch – CodeWithHarry (August 2026)
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/manishxnishad
+- GitHub: https://github.com/ManishXNishad
+
+⭐ Thanks for visiting my profile!
