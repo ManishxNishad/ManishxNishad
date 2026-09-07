@@ -27,9 +27,16 @@ Currently Learning:
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-Coming Soon...
+### 🚀 ProjectForge AI
+AI-powered final-year project architect that helps students discover feasible project ideas, generate build-ready blueprints, track progress, and prepare for viva.
+
+**Built for:** PromptWars × Parul University  
+**Tech:** Next.js · TypeScript · Tailwind CSS · Google Gemini · Vercel  
+**Achievement:** Ranked 70th among 550+ participants
+
+🔗 [Live Demo](https://projectforge-3c834xai4-nishadmanishdinanath-6216.vercel.app/) · [GitHub](https://github.com/ManishxNishad/projectforge-ai)
 
 ---
 
