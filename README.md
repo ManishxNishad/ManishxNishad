@@ -43,6 +43,11 @@ AI-powered final-year project architect that helps students discover feasible pr
 ## 📜 Certifications
 
 - ✅ Complete 2026 Python Bootcamp: Learn Python from Scratch – CodeWithHarry (August 2026)
+  
+- ✅ Complete 2026 Python Bootcamp: Learn Python from Scratch – CodeWithHarry (August 2026)
+
+🏆 PromptWars × Parul University – Certificate of Participation (September 2026)
+   One-day vibe-coding hackathon | Built & deployed a working AI prototype using Google Antigravity
 
 ---
 
